@@ -1,0 +1,74 @@
+body{
+  margin-left: 13%;
+}
+.logo{
+  height: 25px;
+}
+
+.top-bar{
+  margin-top: 1%;
+}
+
+
+.petition, .my-petition, .browse, .membership{
+  display: inline-block;
+  margin-left: 5%;
+}
+
+
+
+.statement{
+  margin: auto;
+  font-weight: bold;
+  font-size: 32px;
+  margin-left: 25%;
+  margin-top:5%;
+  
+}
+
+.container{
+  margin-top: 6%;
+}
+
+.petition_img{
+  width:600px;
+  border-radius: 10px;
+}
+
+.started{
+  color: #666666;
+}
+
+.pet-info{
+  color: #666666;
+}
+
+.sign-up{
+  font-weight: bold;
+  font-size: 24px;
+  margin-top:40%;
+}
+
+.f-name{
+  font-size:10px;
+}
+
+.box-f, .box-l, .box-e{
+  height: 10px;
+}
+
+.col-4{
+  font-size: 12px;
+}
+
+.email, .name-l, .name-f{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.but{
+  background-color: red;
+  color: white;
+  width: 200px;
+  height:20px;
+}
